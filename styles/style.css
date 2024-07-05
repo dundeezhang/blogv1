@@ -126,7 +126,6 @@ p.blog-name {
 
 p.blog-preview {
     font-size: calc(10px + 1vmin);
-    max-width: 50vw;
     margin-top: 1vmin;
     margin-bottom: 5vmin;
 }
