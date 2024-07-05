@@ -126,8 +126,7 @@ p.blog-name {
 
 p.blog-preview {
     font-size: calc(10px + 1vmin);
-    margin-top: 1vmin;
-    margin-bottom: 5vmin;
+    margin: 1vmin 10vmin 5vmin 10vmin;
 }
 
 .green-colour {
