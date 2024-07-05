@@ -134,3 +134,7 @@ p.blog-preview {
 .green-colour {
     color: rgb(64, 162, 64);
 }
+
+footer {
+    margin: 5vmin 0 5vmin 0
+}
