@@ -130,7 +130,11 @@ footer {
 }
 
 img {
-    max-width: 80%;
+    max-width: 70%;
+}
+
+img.vert-img {
+    max-width: 50%;
 }
 
 p.desc {
