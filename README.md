@@ -1,4 +1,4 @@
 # Blog Site
-No longer updated. See new blog at [dundeezhang.com/blog](https://dundeezhang.com/blog)
+No longer updated. See new blog at [blog.dhz.app](https://blog.dhz.ap)
 
 Just made in HTML and CSS. Basic, but it gets the job done.
